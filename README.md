@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hvhvdevdev
 - 👀 I’m interested in video game development.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and TypeScript
 - 💞️ I’m looking to collaborate on game engines.
 
 <!---
