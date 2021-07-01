@@ -1,5 +1,5 @@
 # 👋 Hello there again, I’m Hai.
-Welcome to my newly created __secondary__ github account which is just for Rust programming.
+Welcome to my newly created __secondary__ github account which is just for Rust and TypeScript programming.
 - 👀 I’m very interested in video game development.
 - 🌱 I’m currently learning Rust and TypeScript
 - 💞️ I’m looking to collaborate on game engines.
