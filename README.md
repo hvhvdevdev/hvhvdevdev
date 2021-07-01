@@ -1,4 +1,4 @@
-# 👋 Hello there, I’m Hai.
+# 👋 Hello there again, I’m Hai.
 Welcome to my newly created __secondary__ github account which is just for Rust programming.
 - 👀 I’m very interested in video game development.
 - 🌱 I’m currently learning Rust and TypeScript
