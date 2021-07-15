@@ -26,7 +26,9 @@ Welcome to my newly created __secondary__ github account.
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="40" style="display: inline;margin-right: 10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" height="40" style="display: inline;margin-right: 10px;" />
 <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-horizontal.svg" height="40" style="display: inline;margin-right: 10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40" style="display: inline;margin-right: 10px;" />
 
+  
 </div>
 
 ## Stats
