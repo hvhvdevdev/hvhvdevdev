@@ -1,6 +1,6 @@
 # 👋 Hello there again, I’m Hai.
 Welcome to my newly created __secondary__ github account.
-- 👀 I’m very interested in video game development.
+- 👀 I’m very interested in compilers, real-time rendering, and video game development.
 - 🌱 I’m currently learning Rust and TypeScript
 - 💞️ I’m looking to collaborate on game engines.
 
