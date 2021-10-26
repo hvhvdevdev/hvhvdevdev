@@ -34,7 +34,7 @@ Welcome to my newly created __secondary__ github account.
 ## Stats
 
 [![hvhvdevdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvhvdevdev&show_icons=true&theme=onedark&hide=contribs)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvhvdevdev&layout=compact&theme=onedark&hide=CMake)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvhvdevdev&layout=compact&theme=onedark&hide=CMake,C++)]()
 
 <!---
 hvhvdevdev/hvhvdevdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
